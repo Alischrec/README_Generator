@@ -1,10 +1,7 @@
 # README_Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-MIT License
 
 Explore the [Project Page](https://github.com/Alischrec/README_Generator)
-
-View the [Github-pages](https://alischrec.github.io/README_Generator/)
 
 ## Table of Contents
 
@@ -29,10 +26,10 @@ The focus of this project was to create a working README_Generator while utilizi
 * [index.js](https://github.com/Alischrec/README_Generator/blob/main/index.js)
 
 ### Assets:
-<!-- * [images](https://github.com/Alischrec/README_Generator/tree/main/assets/images) -->
+* [images](https://github.com/Alischrec/README_Generator/tree/main/assets/images)
 
 ### Built With:
-* This app is build upon [Node.js](https://nodejs.org/en/)
+* This app is build upon [Node.js](https://nodejs.org/en/) and the [Inquirer package](https://www.npmjs.com/package/inquirer)
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
