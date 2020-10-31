@@ -1,13 +1,15 @@
 # README_Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT License
 
-<!-- Explore the [Project Page](https://github.com/Alischrec/Portfolio) -->
+Explore the [Project Page](https://github.com/Alischrec/README_Generator)
 
-<!-- View the [Github-pages](https://alischrec.github.io/Portfolio/) -->
+View the [Github-pages](https://alischrec.github.io/README_Generator/)
 
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [HTML](#html)
+  * [JavaScript](#JavaScript)
   * [Assets](#Assets)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
@@ -15,24 +17,22 @@
   * [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#License)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-<!-- The focus of this project was to create a working portfolio for future career endeavors. -->
+The focus of this project was to create a working README_Generator while utilizing Node.js for an simple and easy way to generate future README.md files.
 
 <!-- ![Project Gif](assets/images/gif.gif) -->
 
-### HTML:
-<!-- * [index.html](https://github.com/Alischrec/Portfolio/blob/master/index.html) -->
+### JavaScript:
+* [index.js](https://github.com/Alischrec/README_Generator/blob/main/index.js)
 
 ### Assets:
-<!-- * [style.css](https://github.com/Alischrec/Portfolio/blob/master/assets/css/style.css) -->
-<!-- * [images](https://github.com/Alischrec/Portfolio/tree/master/assets/images) -->
+<!-- * [images](https://github.com/Alischrec/README_Generator/tree/main/assets/images) -->
 
 ### Built With:
-<!-- * This app is build upon [Bootstrap Framework](https://getbootstrap.com/) -->
+* This app is build upon [Node.js](https://nodejs.org/en/)
 
 ## Getting Started:
 To get a local copy up and running follow the steps below.
@@ -43,11 +43,11 @@ None.
 ### Installation:
 1. Clone the Repository:
 ```sh
-# git clone git@github.com:Alischrec/Portfolio.git
+git clone git@github.com:Alischrec/README_Generator.git
 ```
 
 ## Roadmap:
-<!-- Currently no known issues, but track track [open issues](https://github.com/Alischrec/Portfolio/issues ) for proposed features (and known issues) in the future. -->
+Currently no known issues, but track track [open issues](https://github.com/Alischrec/README_Generator/issues ) for proposed features (and known issues) in the future.
 
 
 ## Contributing:
@@ -59,34 +59,10 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License:
-
-MIT License
-
-Copyright (c) [2020] [Alison Schreckengast]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 ## Contact:
 Ali-Schreck. - [@alischrec](https://www.instagram.com/alischrec) - alischreck@gmail.com
 
-<!-- Project Link: [https://github.com/Alischrec/Portfolio](https://github.com/Alischrec/Portfolio) -->
+Project Link: [https://github.com/Alischrec/README_Generator](https://github.com/Alischrec/README_Generator)
 
 ## Acknowledgements: 
 * University of Washington Coding Bootcamp for providing me with the skills and knowledge to create this project. 
