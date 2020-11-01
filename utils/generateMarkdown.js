@@ -48,7 +48,8 @@ function generateMarkdown(data) {
   ${data.testing}
 
   ## License:
-  This project is covered under the following license: ${license}
+  This project is covered under the following license: 
+  ${license}
 
   ## Questions:
   [GitHub Profile](https://github.com/${data.username})

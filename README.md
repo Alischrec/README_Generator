@@ -20,7 +20,7 @@ Explore the [Project Page](https://github.com/Alischrec/README_Generator)
 ## About the Project:
 The focus of this project was to create a working README_Generator while utilizing Node.js for an simple and easy way to generate future README.md files.
 
-<!-- ![Project Gif](assets/images/gif.gif) -->
+![Project Gif](assets/images/gif.gif)
 
 ### JavaScript:
 * [index.js](https://github.com/Alischrec/README_Generator/blob/main/index.js)
